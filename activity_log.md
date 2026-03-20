@@ -5,3 +5,4 @@
 - [2026-03-20T08:57:29Z] docs: improve inline documentation
 - [2026-03-20T09:22:14Z] refactor: clean up unused imports
 - [2026-03-20T12:48:18Z] style: apply consistent code formatting
+- [2026-03-20T21:18:38Z] test: add unit tests for core module
